@@ -11,8 +11,8 @@ nodejs
     
     
    ### API used
-  https://www.mapbox.com/
-  https://weatherstack.com/
+  - https://www.mapbox.com/
+  - https://weatherstack.com/
     
 ### Deployed on heroku
  https://malindu-weather-application.herokuapp.com/
